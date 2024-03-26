@@ -1,1 +1,1 @@
-'''simple python tip calculator'''
+simple python tip calculator
